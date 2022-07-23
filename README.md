@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="center" width="150" src="/image.png" />
+<img align="center" width="150" src="/image.png" />
 
 >`I am a full-stack software developer with 10 years of experience in web, mobile, and desktop development including blockchain technologies. Open to work and to meet!`  
 
@@ -65,5 +65,5 @@
 
 👤 **Revelatino Benson**
 
->`Stop scrolling, Read that quote and get inspired ! 🚀`
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+### Stop scrolling, Read that quote and get inspired ! 🚀
+>[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
