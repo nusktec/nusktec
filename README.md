@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="center" width="150" src="/image.jpg" />
+  <img align="center" width="150" src="/image.png" />
 
 >`I am a full-stack software developer with 10 years of experience in web, mobile, and desktop development including blockchain technologies. Open to work and to meet!`  
 
