@@ -2,8 +2,8 @@
 <img align="center" width="150" src="/image.png" />
 
 >`I am a full-stack software developer with 10 years of experience in web, mobile, and desktop development including blockchain technologies. Open to work and to meet!`  
-
-  <h3 align="left">My Whole Technolgies</h3>
+  <h4 align="left">Thanks for checking out my github</h4>
+  <h3 align="left">Technolgies iam used to</h3>
 </p>
 <!-- Badges -->
 <p align="center">
