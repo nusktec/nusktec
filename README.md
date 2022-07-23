@@ -1,33 +1,40 @@
 <p align="center">
-  <img align="center" width="100" src="/logo.png" />
+  <img align="center" width="100" src="/image.jpeg" />
 
-`I am a full-stack software developer with 10 years of experience in web, mobile, and desktop development including blockchain technologies. Open to work and to meet!`  
+>`I am a full-stack software developer with 10 years of experience in web, mobile, and desktop development including blockchain technologies. Open to work and to meet!`  
 
-  <h3 align="center">My Stacks</h3>
+  <h3 align="left">My Stacks</h3>
 </p>
 <!-- Badges -->
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/NodeJS-95%25 BEST-blue?style=flat-square">
   </a>
+  
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-98%25 BEST-blue?style=flat-square">
   </a>
+  
 <a href="#">
     <img src="https://img.shields.io/badge/Android Java-80%25 BEST-black?style=flat-square">
   </a>
+  
 <a href="#">
     <img src="https://img.shields.io/badge/ReactNative-88%25 BEST-black?style=flat-square">
   </a>
+  
 <a href="#">
     <img src="https://img.shields.io/badge/iOS xCode-68%25 BEST-orange?style=flat-square">
   </a>
+  
   <a href="#">
     <img src="https://img.shields.io/badge/Blockchain-70%25 BEST-blueviolet?style=flat-square">
   </a>
+  
    <a href="#">
     <img src="https://img.shields.io/badge/Embedded System-77%25 BEST-blueviolet?style=flat-square">
   </a>
+  
    <a href="#">
     <img src="https://img.shields.io/badge/Database-82%25 BEST-blueviolet?style=flat-square">
   </a>
